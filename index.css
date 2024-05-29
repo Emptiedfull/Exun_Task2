@@ -49,14 +49,18 @@ body{
 
 #banner h2{
     color:bisque;
-    font-size: 2.8em;
+    font-size: 3.3vw;
     font-weight: 1000;
 }
 
 #banner p{
     opacity: 90%;
     width: 50%;
-    font-size: 0.85em;
+    font-size: 0.92vw;
+}
+#banner img{
+    width: 40%;
+    margin-bottom: 2%;
 }
 
 #r2{
